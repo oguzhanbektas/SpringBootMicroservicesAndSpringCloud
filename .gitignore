@@ -3,7 +3,7 @@
 
 # Log file
 *.log
-
+*mvnw*
 # BlueJ files
 *.ctxt
 
@@ -58,3 +58,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.mvn/wrapper
+*.mvn/wrapper
