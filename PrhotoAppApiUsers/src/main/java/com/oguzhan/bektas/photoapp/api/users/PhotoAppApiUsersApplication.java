@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PrhotoAppApiUsersApplication {
+public class PhotoAppApiUsersApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PrhotoAppApiUsersApplication.class, args);
+        SpringApplication.run(PhotoAppApiUsersApplication.class, args);
     }
 
 }
